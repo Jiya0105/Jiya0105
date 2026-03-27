@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Jiya Bhola</h1>
-<h3 align="center">🚀 Java Backend Developer | Building Scalable Systems</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=6A11CB&size=28&center=true&vCenter=true&width=600&lines=Java+Backend+Developer;Building+Scalable+Systems;Spring+Boot+Enthusiast;DSA+Learner+%F0%9F%94%A5" />
+</p>
 
 ---
 
@@ -23,14 +26,11 @@
 
 ## 🧠 Tech Stack
 
-### 👨‍💻 Languages
-`Java` `C++` `Python` `SQL`
+<p align="center">
 
-### 🌐 Web
-`HTML` `CSS` `JavaScript`
+<img src="https://skillicons.dev/icons?i=java,cpp,python,mysql,html,css,js,git,github,vscode,intellij" />
 
-### ⚙️ Backend & Tools
-`JDBC` `MySQL` `Git` `GitHub` `IntelliJ` `VS Code`
+</p>
 
 ---
 
@@ -46,7 +46,7 @@
   <a href="https://leetcode.com/u/jiyabhola01/">
     <img src="https://leetcode-stats.vercel.app/api?username=jiyabhola01&theme=dark" width="48%"/>
   </a>
-  <img src="https://img.shields.io/badge/DSA-Consistency🔥-brightgreen?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/DSA-Consistency🔥-6a11cb?style=for-the-badge"/>
 </p>
 
 <p align="center">
@@ -74,14 +74,6 @@
 
 ---
 
-### 🔹 Library Management System
-> 📚 CRUD-based system  
-✔ Book & user management  
-✔ Python + MySQL integration  
-✔ Clean database design  
-
----
-
 ## 🏆 Leadership & Activities
 - 🎯 **Secretary – Cultural Club**
 - 🎉 Organized:
@@ -92,7 +84,7 @@
 
 ---
 
-## 📊 GitHub Insights
+## 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Jiya0105&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
@@ -105,19 +97,18 @@
 
 ---
 
-## 🏆 Achievements & Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Jiya0105&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 <p align="center">
-<a href="https://github.com/Jiya0105"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/></a>
-<a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/></a>
+<a href="https://github.com/Jiya0105">
+  <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github"/>
+</a>
+<a href="https://www.linkedin.com/in/jiya-bhola-995806312/">
+  <img src="https://img.shields.io/badge/LinkedIn-6a11cb?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://leetcode.com/u/jiyabhola01/">
+  <img src="https://img.shields.io/badge/LeetCode-2575fc?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
 </p>
 
 ---
