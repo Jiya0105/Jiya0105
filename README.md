@@ -34,6 +34,28 @@
 
 ---
 
+## 🧩 LeetCode Progress
+
+<p align="center">
+  <a href="https://leetcode.com/u/jiyabhola01/">
+    <img src="https://leetcard.jacoblin.cool/jiyabhola01?theme=dark&font=Nunito&ext=heatmap&animation=true" width="70%"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/u/jiyabhola01/">
+    <img src="https://leetcode-stats.vercel.app/api?username=jiyabhola01&theme=dark" width="48%"/>
+  </a>
+  <img src="https://img.shields.io/badge/DSA-Consistency🔥-brightgreen?style=for-the-badge"/>
+</p>
+
+<p align="center">
+  🚀 Solving problems daily to strengthen Data Structures & Algorithms  
+  💡 Focused on consistency, patterns & interview preparation
+</p>
+
+---
+
 ## 🚀 Featured Projects (Portfolio Style)
 
 ### 🔹 Face Recognition System
@@ -79,6 +101,14 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jiya0105&layout=compact&theme=tokyonight&hide_border=true" width="50%"/>
+</p>
+
+---
+
+## 🏆 Achievements & Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Jiya0105&theme=tokyonight&no-frame=true&row=1&column=6"/>
 </p>
 
 ---
